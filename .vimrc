@@ -28,6 +28,7 @@ Bundle 'ervandew/supertab'
 Bundle 'nvie/vim-flake8'
 Bundle 'vim-scripts/AutoComplPop'
 Bundle 'fholgado/minibufexpl.vim'
+Bundle 'chriskempson/tomorrow-theme', {'rtp': 'vim/'}
 
 " vim-scripts repos
 "Bundle 'L9'
